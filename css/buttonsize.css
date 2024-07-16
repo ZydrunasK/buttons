@@ -1,0 +1,31 @@
+.btn {
+    background-color:cornflowerblue;
+    color: white;
+    border-radius: 3px;
+    line-height: 20px;
+    border: solid cornflowerblue;
+}
+.btn.L {
+    height: 48px;
+    padding: 14px 20px;
+    font-size: 16px;
+    line-height: 20px;
+}
+.btn.M {
+    height: 36px;
+    padding: 8px 12px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.btn.S {
+    height: 28px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 20px;
+}
+.btn.XS {
+    height: 20px;
+    padding: 0px 6px;
+    font-size: 10px;
+    line-height: 20px;
+}
